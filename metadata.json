@@ -1,0 +1,6 @@
+{
+  "name": "Share Market Board",
+  "description": "Safe trade board and secure voting on daily shares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
